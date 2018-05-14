@@ -1,0 +1,40 @@
+/* CSS Document */
+
+.wrap {
+	border: thick;
+	background: #F7575A;
+
+}
+
+.header {
+		text-align: center;
+	font-size: 40px;
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.flex-container {
+	display: flex;
+	flex-wrap: nowrap;
+	background-color: dodgerblue;
+}
+
+.flex-container > div {
+	background-color: #F1F1F1;
+	width: 100px;
+	margin: 10px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+}
+
+.element {
+	float: left;
+	align-self: auto;
+	padding: 50px;
+}
+
+.content {
+	
+}
+
