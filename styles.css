@@ -1,9 +1,7 @@
 /* CSS Document */
-
 .wrap {
 	border: thick;
-	background: #F7575A;
-
+	background: #d12020;
 }
 
 .header {
@@ -35,6 +33,5 @@
 }
 
 .content {
-	
-}
 
+}
